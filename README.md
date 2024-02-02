@@ -8,7 +8,7 @@ Nesse desafio desenvolveremos uma agenda para salvar, editar, deletar e marcar u
 A aplicação deve iniciar mostrando uma lista de opções do que é possível fazer com o app e permitir que o usuário digite uma escolha para iniciar a aplicação.
 <ul>
 <li>Deve ser possível adicionar um contato</li> 
-<b>O contato pode ter os dados: </b>
+<b> - O contato pode ter os dados: </b>
     <ul> 
         <li> Nome </li>
         <li>Telefone </li> 
