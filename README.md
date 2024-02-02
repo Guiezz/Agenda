@@ -8,11 +8,13 @@ Nesse desafio desenvolveremos uma agenda para salvar, editar, deletar e marcar u
 A aplicação deve iniciar mostrando uma lista de opções do que é possível fazer com o app e permitir que o usuário digite uma escolha para iniciar a aplicação.
 <ul>
 <li>Deve ser possível adicionar um contato</li> 
-    - O contato pode ter os dados:
-    - Nome
-    - Telefone
-    - Email
-    - Favorito (está opção é para poder marcar um contato como favorito)
+    <ul> 
+        O contato pode ter os dados: 
+        <li> Nome </li>
+        <li>Telefone </li> 
+        <li> Email </li> 
+        <li> Favorito (está opção é para poder marcar um contato como favorito) </li> 
+    </ul>
 <li> Deve ser possível visualizar a lista de contatos cadastrados </li> 
 <li> Deve ser possível editar um contato </li> 
 <li> Deve ser possível marcar/desmarcar um contato como favorito </li>   
